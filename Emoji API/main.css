@@ -1,0 +1,10 @@
+figure {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.emoji, .emoji1 {
+    font-size: 100px;
+}
